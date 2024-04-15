@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "id": 0
+    },
+    {
+      "tno": "101",
+      "name": "nikita sarode",
+      "price": "1000",
+      "city": "Pune",
+      "id": 1
+    },
+    {
+      "tno": "102",
+      "name": "komal dorak",
+      "price": "700",
+      "city": "narayangoan",
+      "id": 2
+    }
+  ]
+}
